@@ -2,7 +2,7 @@
 """
 Created on Wed Mar  2 20:50:59 2022
 
-@author: Jean Brochero
+@author: Cristian Brochero
 """
 
 taller1 = float ( input("ingrese la nota de taller 1: ")) 
