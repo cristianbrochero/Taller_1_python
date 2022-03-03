@@ -4,7 +4,7 @@ Created on Wed Mar  2 19:14:14 2022
 
 @author: Cristian Brochero
 """
-
+# primer punto
 don=int( input ("donacion a ingresar $"))
 tele= don*0.2
 sis= tele*0.15
@@ -15,5 +15,4 @@ print (f"la donacion es: ${tele:,}")
 print (f"la donacion es: ${sis:,}")
 print (f"la donacion es: ${admin:,}")
 print (f"la donacion es: ${Conta:,}")
-
 
